@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="javaClasses.SquareTests" tests="1" skipped="0" failures="1" errors="0" timestamp="2020-06-01T12:16:39" hostname="DESKTOP-MFL6R4J" time="0.005">
+<testsuite name="javaClasses.SquareTests" tests="1" skipped="0" failures="1" errors="0" timestamp="2020-06-01T14:42:17" hostname="DESKTOP-MFL6R4J" time="0.005">
   <properties/>
   <testcase name="testArea" classname="javaClasses.SquareTests" time="0.005">
     <failure message="java.lang.AssertionError: no way! expected [24.0] but found [25.0]" type="java.lang.AssertionError">java.lang.AssertionError: no way! expected [24.0] but found [25.0]
