@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="javaClassesAddressbook.groupCreatingTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-01T15:03:24" hostname="DESKTOP-MFL6R4J" time="0.387">
+<testsuite name="javaClassesAddressbook.groupCreatingTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-01T15:44:38" hostname="DESKTOP-MFL6R4J" time="0.859">
   <properties/>
-  <testcase name="testGroupCreation" classname="javaClassesAddressbook.groupCreatingTests" time="0.387"/>
+  <testcase name="testGroupCreation" classname="javaClassesAddressbook.groupCreatingTests" time="0.859"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-1591023801020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ausmy\\AppData\\Local\\Temp\\rust_mozprofileeQeext"
-1591023801307	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
-1591023801386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1591023801386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1591023801386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1591023801386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591026275885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ausmy\\AppData\\Local\\Temp\\rust_mozprofilej0fSed"
+1591026276176	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591026276255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591026276255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591026276255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591026276255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1591023803594	Marionette	INFO	Listening on port 59895
-1591023803643	Marionette	WARN	TLS certificate errors will be ignored for this session
-Jun 01, 2020 6:03:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+1591026278309	Marionette	INFO	Listening on port 52065
+1591026278510	Marionette	WARN	TLS certificate errors will be ignored for this session
+Jun 01, 2020 6:44:38 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
 </testsuite>
